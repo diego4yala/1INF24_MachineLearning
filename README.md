@@ -1,10 +1,10 @@
-# 🌫️ Predicción de la concentración de PM2.5 en Lima Metropolitana
+#  Predicción de la concentración de PM2.5 en Lima Metropolitana
 
 > Tarea Académica — Inteligencia Artificial (1INF24) | PUCP 2026-1
 
 ---
 
-## 📋 Descripción
+##  Descripción
 
 Este proyecto aplica modelos de regresión supervisada para predecir la concentración horaria de **PM2.5** (material particulado fino, µg/m³) en las 7 estaciones de monitoreo de Lima Metropolitana, utilizando datos históricos del SENAMHI (2015–2024).
 
